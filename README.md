@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm 17 years old. I'm a DevOps and GoLang T-shaped developer. I have strong Linux skills — I manage several servers and use it on my PC. I create Telegram and Discord bots, as well as other programs in GoLang and Python. I'm a co-owner of the hosting [Qniks Universal](https://qniks.me). You can contact me via Telegram!
+I'm **17** years old. I'm a **DevOps** and **GoLang** T-shaped developer. I have strong Linux skills — I manage several servers and use it on my PC. I create Chat-bots, Backend-API, as well as other programs in GoLang and Python. I'm a co-owner of the hosting [Qniks Universal](https://qniks.me). You can contact me via Telegram!
 
 ## 🔧 Tech Stack  
 
