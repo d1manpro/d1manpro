@@ -17,5 +17,5 @@ I'm **17** years old. I'm a **DevOps** and **GoLang** T-shaped developer. I have
 
 ## 📫 Contacts  
 - 💬 Telegram: [@d1manpro](https://t.me/d1manpro)
-- ✉️ Email: [contact@dp-dev.ru](mailto:contact@dp-dev.ru)
-- 🌍 Website: [dp-dev.ru](https://dp-dev.ru)
+- ✉️ Email: [dev@d1man.pro](mailto:dev@d1man.pro)
+- 🌍 Website: [d1man.pro](https://d1man.pro)
